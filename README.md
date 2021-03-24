@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlirezaEbrahimkhani&include_all_commits=true&count_private=true&show_icons=true&theme=dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaEbrahimkhani&layout=compact" />
+
 <!--
 **AlirezaEbrahimkhani/AlirezaEbrahimkhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
