@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Angular**
-- 🌱 I’m currently learning **Advanced angular & nodejs**
-- 👯 I’m looking to collaborate on **Javascript & Angular**
+- 🌱 I’m currently learning **Advanced javascript & Nodejs**
+- 👯 I’m looking to collaborate on **Javascript & Angular repositories**
 - 💬 Ask me about **Angular & Javascript**
 - 📫 How to reach me: alirezaebrahimkhanidev@gmail.com
 
