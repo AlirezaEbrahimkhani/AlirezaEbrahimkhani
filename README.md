@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Angular & Nodejs**
-- 🌱 I’m currently learning **Python & Advance C++**
-- 👯 I’m looking to collaborate on **C++**
-- 💬 Ask me about **Angular**
+- 🔭 I’m currently working on **Angular**
+- 🌱 I’m currently learning **Advanced angular & nodejs**
+- 👯 I’m looking to collaborate on **Javascript & Angular**
+- 💬 Ask me about **Angular & Javascript**
 - 📫 How to reach me: alirezaebrahimkhanidev@gmail.com
 
 <p align="center">
