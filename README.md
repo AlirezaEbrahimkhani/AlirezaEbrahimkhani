@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Angular**
 - 📫 How to reach me: alirezaebrahimkhanidev@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlirezaEbrahimkhani&include_all_commits=true&count_private=true&show_icons=true&theme=dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaEbrahimkhani&layout=compact" />
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=AlirezaEbrahimkhani&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="AlirezaEbrahimkhani"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaEbrahimkhani&theme=radical" alt="Alireza Ebrahimkhani" />
+</p>
