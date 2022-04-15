@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Angular & Javascript**
 - 📫 How to reach me: alirezaebrahimkhanidev@gmail.com
 
-[![AlirezaEbrahimkhani's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlirezaEbrahimkhani&theme=rogue)](https://github.com/AlirezaEbrahimkhani)
+<!-- [![AlirezaEbrahimkhani's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlirezaEbrahimkhani&theme=rogue)](https://github.com/AlirezaEbrahimkhani) -->
 
 <p align="center">
    <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
