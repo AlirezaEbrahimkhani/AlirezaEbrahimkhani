@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 <!-- [![AlirezaEbrahimkhani's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlirezaEbrahimkhani&theme=rogue)](https://github.com/AlirezaEbrahimkhani) -->
 
 <p align="center">
+   <img width="100%" height="450px" src="./raccoon.svg">
    <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" width="550px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlirezaEbrahimkhani&theme=dracula" alt="Alireza Ebrahimkhani stats"/>
    </a>
@@ -30,5 +31,4 @@ Here are some ideas to get you started:
    <a style="margin: 5px; text-decoration: none !important"  target="_blank">
         <img height="170px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Alireza Ebrahimkhani stats"/>
    </a>
-
 </p>
