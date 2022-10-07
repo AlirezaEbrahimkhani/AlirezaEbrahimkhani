@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Angular**
-- 🌱 I’m currently learning **Advanced javascript & Nodejs**
-- 👯 I’m looking to collaborate on **Javascript & Angular projects**
+- 🌱 I’m currently learning **System design concepts**
+- 👯 I’m looking to collaborate on **Javascript & Angular**
 - 💬 Ask me about **Angular & Javascript**
 - 📫 How to reach me: alirezaebrahimkhanidev@gmail.com
 
